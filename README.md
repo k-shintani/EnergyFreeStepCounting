@@ -8,7 +8,7 @@ This project explores how **photovoltaic (solar) cells** can be used as **sensor
 ## 🎥 Step Detection Demo
 [![Watch the Video](https://github.com/k-shintani/EnergyFreeStepCounting/blob/main/demo.png)](https://github.com/k-shintani/EnergyFreeStepCounting/blob/main/demo.mp4)
 
-Click the thumbnail above to watch the video.
+Click the thumbnail above to watch the video or visit(https://github.com/k-shintani/EnergyFreeStepCounting/blob/main/demo.mp4).
 
 ## 📌 Features
 - **Photovoltaic-based sensing** for step detection.
