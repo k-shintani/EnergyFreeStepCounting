@@ -11,3 +11,25 @@ This project explores how **photovoltaic (solar) cells** can be used as **sensor
 - **Automatic correction** for missed steps.
 - **CSV-based data logging** for further analysis.
 
+## 📊 Step Data Format
+
+This repository includes two sample datasets recorded during walking:
+
+- **left.csv**: Contains photovoltaic voltage readings from the left foot sensor.
+- **right.csv**: Contains photovoltaic voltage readings from the right foot sensor.
+
+### 📁 CSV Data Format
+
+Each CSV file contains three columns:
+
+| Column Name              | Data Type | Description |
+|--------------------------|----------|-------------|
+| **Timestamp**            | `float`  | Unix time in seconds. |
+| **Photo-Voltage_Center** | `int`    | Voltage reading from the center of the foot-mounted photovoltaic sensor. |
+| **Photo-Voltage_Outside**| `int`    | Voltage reading from the outer side of the foot-mounted photovoltaic sensor. |
+
+These data files are used as input to process real-time step detection.
+
+---
+
+For further details on data processing and step detection, please refer to the documentation.
