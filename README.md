@@ -6,9 +6,18 @@ This repository contains the implementation of an **energy-free step counting sy
 This project explores how **photovoltaic (solar) cells** can be used as **sensors** for detecting steps in a power-efficient manner. The system leverages variations in light intensity detected by foot-mounted solar cells to recognize step patterns, ensuring **accurate step counting without the need for external power sources**.
 
 ## 🎥 Step Detection Demo
+
+### Step Detection Demo (Realtime)
+[![Watch the Video](https://github.com/k-shintani/EnergyFreeStepCounting/blob/main/demo2.png)](https://github.com/k-shintani/EnergyFreeStepCounting/blob/main/demo2.mp4)
+
+Click the thumbnail above to watch the video or visit(https://github.com/k-shintani/EnergyFreeStepCounting/blob/main/demo2.mp4).
+
+### Step Detection Demo (Missing complement)
 [![Watch the Video](https://github.com/k-shintani/EnergyFreeStepCounting/blob/main/demo.png)](https://github.com/k-shintani/EnergyFreeStepCounting/blob/main/demo.mp4)
 
 Click the thumbnail above to watch the video or visit(https://github.com/k-shintani/EnergyFreeStepCounting/blob/main/demo.mp4).
+
+
 
 ## 📌 Features
 - **Photovoltaic-based sensing** for step detection.
