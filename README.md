@@ -12,7 +12,7 @@ This project explores how **photovoltaic (solar) cells** can be used as **sensor
 
 Click the thumbnail above to watch the video or visit(https://github.com/k-shintani/EnergyFreeStepCounting/blob/main/demo2.mp4).
 
-### Step Detection Demo (Missing complement)
+### Step Detection Demo (Missing step complement)
 [![Watch the Video](https://github.com/k-shintani/EnergyFreeStepCounting/blob/main/demo.png)](https://github.com/k-shintani/EnergyFreeStepCounting/blob/main/demo.mp4)
 
 Click the thumbnail above to watch the video or visit(https://github.com/k-shintani/EnergyFreeStepCounting/blob/main/demo.mp4).
